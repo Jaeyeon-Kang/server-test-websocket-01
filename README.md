@@ -18,8 +18,8 @@ json data를 보내는 연구 필요
 3. index.html 라이브서버 실행
 4. npm start -> index.js 실행
 
-index.html: client1
-index2.html: client2
-index.js: server
-"# server-test-websocket-01" 
-"# server-test-websocket-01" 
+## 파일 구조
+
+-   index.html: client1ㅛ
+-   index2.html: client2
+-   index.js: server
