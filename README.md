@@ -20,6 +20,6 @@ json data를 보내는 연구 필요
 
 ## 파일 구조
 
--   index.html: client1ㅛ
+-   index.html: client1
 -   index2.html: client2
 -   index.js: server
